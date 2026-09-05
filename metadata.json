@@ -1,0 +1,10 @@
+{
+  "name": "Simplified KKB: Kaya Kong Bigkasin",
+  "description": "Paghahalo ng Tunog at Pagpapantig",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
